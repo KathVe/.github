@@ -11,19 +11,19 @@ However what we can say is you won't be disappointed! Althought my group and I a
 Now let's introduce the team...
 
 ### Kathleen:
-- 
+- Position: Desginer
 
 ### Gemma:
-- 
+- Position: Scripter
 
 ### Julia:
--
+- Position: Programmer
 
 ### Celara:
-- 
+- Position: Scripter
 
 ### Sarah:
-- 
+- Position: Programmer
 
 And all of us together presents you our game: Beyond the Stars! 
 Follow us on our journey as we take our first steps into the unknown.
