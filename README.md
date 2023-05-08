@@ -11,7 +11,7 @@ However what we can say is you won't be disappointed! Althought my group and I a
 Now let's introduce the team...
 
 ### Kathleen:
-- 
+- Helloo~ my name is Kathleen and I'll be helping with the designs of the game! I have some knowledge of coding but it's not something I'm very good at aha, but I love to create and design and I'm very excited with how the game turns out in the end! :) Just a little bit about me, I love music, art and food!
 
 ### Gemma:
 - 
